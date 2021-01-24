@@ -1,0 +1,31 @@
+{
+  "octomod:InkBottle": {
+    "NAME": "Ink Bottle",
+    "FLAVOR": "bloorp bloorp",
+    "DESCRIPTIONS": [
+      "The first time you #yoctomod:Choose each combat, #yoctomod:Choose #b1 additional time."
+    ]
+  },
+  "octomod:Inkjector": {
+    "NAME": "Inkjector",
+    "FLAVOR": "bloorp. bloorp bloorp.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL The first time you #yoctomod:Choose each turn, #yoctomod:Choose #b1 additional time."
+    ]
+  },
+  "octomod:Blindfold": {
+    "NAME": "Fake Beard",
+    "FLAVOR": "bloorp? bloorp. bloorp... bloorp?",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. You cannot read choices."
+    ]
+  },
+  "octomod:Choiceinator": {
+    "NAME": "Choiceinator",
+    "FLAVOR": "bloorp",
+    "DESCRIPTIONS": [
+      "Every #b10th time you #yoctomod:Choose, #yoctomod:Choose #b1 additional time."
+    ]
+  }
+}

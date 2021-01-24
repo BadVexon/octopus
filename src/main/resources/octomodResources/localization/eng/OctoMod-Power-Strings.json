@@ -1,0 +1,141 @@
+{
+  "octomod:BoostNextChoicePower": {
+    "NAME": "Choice Boost",
+    "DESCRIPTIONS": [
+      "Next time you #yChoose, #yChoose #b",
+      " additional time.",
+      " additional times."
+    ]
+  },
+  "octomod:KrakenPower": {
+    "NAME": "Kraken Form",
+    "DESCRIPTIONS": [
+      "Whenever you #yChoose, #yChoose #b",
+      " additional time.",
+      " additional times."
+    ]
+  },
+  "octomod:BoostNextChoiceThisTurnPower": {
+    "NAME": "Turn Boost",
+    "DESCRIPTIONS": [
+      "Next time you #yChoose this turn, #yChoose #b",
+      " additional time.",
+      " additional times."
+    ]
+  },
+  "octomod:IndecisivePower": {
+    "NAME": "Indecisive",
+    "DESCRIPTIONS": [
+      "Whenever you #yChoose this turn, trigger ALL options instead.",
+      "Whenever you #yChoose for the next #b",
+      " turns, trigger ALL options instead."
+    ]
+  },
+  "octomod:ExtraArmPower": {
+    "NAME": "Extra Arm",
+    "DESCRIPTIONS": [
+      "The first time you #yChoose each turn, #yChoose #b",
+      " additional time.",
+      " additional times."
+    ]
+  },
+  "octomod:SpinyPower": {
+    "NAME": "Spiny Arm",
+    "DESCRIPTIONS": [
+      "Whenever an #yAttack deals unblocked damage, apply #b",
+      " #yConstricted."
+    ]
+  },
+  "octomod:BoostNextChoicesPower": {
+    "NAME": "Multi-Choice Boost",
+    "DESCRIPTIONS": [
+      "Next time you #yChoose, #yChoose 1 additional time.",
+      "The next #b",
+      " times you #yChoose, #yChoose 1 additional time."
+    ]
+  },
+  "octomod:NextChoiceDamageChoicePower": {
+    "NAME": "Bonus Option: Damage",
+    "DESCRIPTIONS": [
+      "Your next card with #yChoose has an additional option to deal #b",
+      " damage to a random enemy."
+    ]
+  },
+  "octomod:NextChoiceTempHPChoicePower": {
+    "NAME": "Bonus Option: Temporary HP",
+    "DESCRIPTIONS": [
+      "Your next card with #yChoose has an additional option to gain #b",
+      " #yTemporary #yHP."
+    ]
+  },
+  "octomod:DuplicatePower": {
+    "NAME": "Duplicate",
+    "DESCRIPTIONS": [
+      "Put a copy of the next #b",
+      " cards you play on top of your draw pile."
+    ]
+  },
+  "octomod:NextChoiceLastChoiceChoicePower": {
+    "NAME": "Bonus Option: Previous Options",
+    "DESCRIPTIONS": [
+      "Your next card with #yChoose also has all the options of #y",
+      " ."
+    ]
+  },
+  "octomod:ReflectDamagePower": {
+    "NAME": "Mirror Body",
+    "DESCRIPTIONS": [
+      "Reflect all damage."
+    ]
+  },
+  "octomod:BlindPower": {
+    "NAME": "Blinded!",
+    "DESCRIPTIONS": [
+      "You cannot read #yChoose options for ",
+      " turns."
+    ]
+  },
+  "octomod:BlindNextCardPower": {
+    "NAME": "Blinded!",
+    "DESCRIPTIONS": [
+      "The next #b",
+      " cards you play have their #yChoose options blinded."
+    ]
+  },
+  "octomod:EndOfTurnDamagePower": {
+    "NAME": "Incoming Damage",
+    "DESCRIPTIONS": [
+      "At the end of its turn, takes #b",
+      " damage."
+    ]
+  },
+  "octomod:EndOfTurnWeakPower": {
+    "NAME": "Incoming Weak",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " Weak."
+    ]
+  },
+  "octomod:AutoTurretPower": {
+    "NAME": "Auto-Turret",
+    "DESCRIPTIONS": [
+      "Whenever you #yChoose, deal #b",
+      " damage to a random enemy."
+    ]
+  },
+  "octomod:TobeyMaguirePower": {
+    "NAME": "Tobey Maguire",
+    "DESCRIPTIONS": [
+      "At the end of your turn, either deal #b4 damage to ALL enemies or gain #b2 Block #b",
+      " time.",
+      " times."
+    ]
+  },
+  "FakeConstricted": {
+    "NAME": "Constricted",
+    "DESCRIPTIONS": [
+      "At the end of your turn, takes #b",
+      " damage."
+    ]
+  }
+}

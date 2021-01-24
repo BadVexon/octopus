@@ -1,0 +1,18 @@
+[
+  {
+    "PROPER_NAME": "Choose",
+    "NAMES": [
+      "choose",
+      "Choose"
+    ],
+    "DESCRIPTION": "Select one from the following options some amount of times."
+  },
+  {
+    "PROPER_NAME": "Constricted",
+    "NAMES": [
+      "constricted",
+      "Constricted"
+    ],
+    "DESCRIPTION": "Constricted creatures lose HP at the end of your turn."
+  }
+]
